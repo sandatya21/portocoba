@@ -1,0 +1,6 @@
+ini adalah file identitas dari alfaprima :
+ - nama kampus : alfaprima denpasar
+ -alamat : jalan hayam wuruk 
+ -tahun berdiri : 2003
+ -nama direktur : Dr. I Made Artana, S.Kom., M.M.
+ 
